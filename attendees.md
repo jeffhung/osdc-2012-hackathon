@@ -8,7 +8,7 @@ Please add your entry in the following section, Attendees, as following:
 
 (請將您的報名資訊如下例般加入下一個章節，Attendees。)
 
-	## *nickname* : *Real Name*
+	### *nickname* : *Real Name*
 	
 	Self introduction to your self. Especially on your skills.
 	So it could be easier to team up with each other.
@@ -23,7 +23,7 @@ You will have to sign up when arriving Trend Micro at 1st floor.
 Attendees
 ---------
 
-## jeffhung : 洪健洲
+### jeffhung : 洪健洲
 
 I am jeffhung. My real name is 洪健洲 (Hung, Chien-Chou). Living in Taipei,
 Taiwan, and working for Trend Micro currently.
