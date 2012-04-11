@@ -15,7 +15,7 @@ OSDC.tw 2012 Hackathon (駭客爽)
 </tr>
 <tr>
 	<th>Fee (費用)</th>
-	<th>None (免費)</th>
+	<td>None (免費)</td>
 </table>
 
 GOAL
