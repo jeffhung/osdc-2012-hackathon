@@ -1,5 +1,5 @@
-CI for Foods *(Project Name as the Title)*
-==========================================
+Continuous Integration for Foods *(Project Name as the Title)*
+==============================================================
 
 *Describe your project briefly here.*  
 *請在這裡簡短描述您的專案。*
