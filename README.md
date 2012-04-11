@@ -56,8 +56,8 @@ Please follow the steps to propose your ideas:
 1. Clone this project on github to somewhere public. You may also fork it directly on github.  
    將 github 上的這個專案 clone 至公開的某處。您亦可以直接在 github 上 fork 此專案。
 
-2. Add a text file to the `projects` folder, using the file name convention: `*project-name*.md`.  
-   新增一個純文字檔案到 `projects` 資料夾，並使用這個檔名慣例：`*project-name*.md`。
+2. Add a text file to the `projects` folder, using the file name convention: `project-name.md`.  
+   新增一個純文字檔案到 `projects` 資料夾，並使用這個檔名慣例：`project-name.md`。
 
 3. Edit the file, using markdown syntax, according to the description in `projects/example.md`.  
    依照 `projects/example.md` 的說明，使用 markdown 格式編輯這個檔案。

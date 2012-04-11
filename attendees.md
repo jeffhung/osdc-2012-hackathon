@@ -7,7 +7,7 @@ Example
 Please add your entry in the following section, Attendees, as following:  
 (請將您的報名資訊如下例般加入下一個章節，Attendees。)
 
-	### *nickname* : *Real Name*
+	### nickname : Real Name
 	
 	Self introduction to your self. Especially on your skills.
 	So it could be easier to team up with each other.
