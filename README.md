@@ -38,14 +38,14 @@ To register, please follow the steps:
 1. Clone this project on github to somewhere public. You may also fork it directly on github.  
    將 github 上的這個專案 clone 至公開的某處。您亦可以直接在 github 上 fork 此專案。
 
-2. Edit [`attendees.md`](osdc-2012-hackathon/blob/master/attendees.md) and add your name into the list.  
-   編輯 `attendees.md` 檔案並將您的名字列入其中。
+2. Edit [`attendees.md`][at] and add your name into the list.  
+   編輯 [`attendees.md`][at] 檔案並將您的名字列入其中。
 
 3. Commit your changes with proper `GIT_AUTHOR_NAME` and `GIT_AUTHOR_EMAIL` configurations, so we can track who you are.  
    將您的修改 commit 以便我們可以追蹤您是誰。請注意要有正確的 `GIT_AUTHOR_NAME` 與 `GIT_AUTHOR_EMAIL` 的設定。
 
 4. Send a [pull request](#pullrequest) to this project on github and we will get your registration.  
-   發送一個 pull request 到 github 上的這個專案，我們便可接受您的報名。
+   發送一個 [pull request](#pullrequest) 到 github 上的這個專案，我們便可接受您的報名。
 
 PROPOSALS (提案)
 ----------------
@@ -62,17 +62,17 @@ Please follow the steps to propose your ideas:
 1. Clone this project on github to somewhere public. You may also fork it directly on github.  
    將 github 上的這個專案 clone 至公開的某處。您亦可以直接在 github 上 fork 此專案。
 
-2. Add a text file to the `projects` folder, using the file name convention: `project-name.md`.  
-   新增一個純文字檔案到 `projects` 資料夾，並使用這個檔名慣例：`project-name.md`。
+2. Add a text file to the [`projects`][pr] folder, using the file name convention: `project-name.md`.  
+   新增一個純文字檔案到 [`projects`][pr] 資料夾，並使用這個檔名慣例：`project-name.md`。
 
-3. Edit the file, using markdown syntax, according to the description in `projects/example.md`.  
-   依照 `projects/example.md` 的說明，使用 markdown 格式編輯這個檔案。
+3. Edit the file, using [markdown syntax][md], according to the description in [`projects/example.md`][ex].  
+   依照 [`projects/example.md`][ex] 的說明，使用 [markdown 格式][md]編輯這個檔案。
 
 4. Commit your changes with proper `GIT_AUTHOR_NAME` and `GIT_AUTHOR_EMAIL` configurations, so we can track who you are.  
    將您的修改 commit 以便我們可以追蹤您是誰。請注意要有正確的 `GIT_AUTHOR_NAME` 與 `GIT_AUTHOR_EMAIL` 的設定。
 
-5. Send a pull request to this project on github and we will get your proposal.  
-   發送一個 pull request 到 github 上的這個專案，我們便可接受您的提案。
+5. Send a [pull request](#pullrequest) to this project on github and we will get your proposal.  
+   發送一個 [pull request](#pullrequest) 到 github 上的這個專案，我們便可接受您的提案。
 
 GROUPINGS (報隊)
 ----------------
@@ -89,8 +89,8 @@ Please follow the steps to join to projects:
 1. Clone this project on github to somewhere public. You may also fork it directly on github.  
    將 github 上的這個專案 clone 至公開的某處。您亦可以直接在 github 上 fork 此專案。
 
-2. In the `projects` folder, edit the project proposal in that you are interested and willing to join.  
-   在 `projects` 資料夾裡，編輯您感興趣且想要參加的提案檔案。
+2. In the [`projects`][pr] folder, edit the project proposal in that you are interested and willing to join.  
+   在 [`projects`][pr] 資料夾裡，編輯您感興趣且想要參加的提案檔案。
 
 3. Add your name, or nickname, into the `MEMBERS` section in the project proposal.  
    將您的姓名或膩稱，加入到提案檔案的 `MEMBERS` 段落。
@@ -98,8 +98,8 @@ Please follow the steps to join to projects:
 4. Commit your changes with proper `GIT_AUTHOR_NAME` and `GIT_AUTHOR_EMAIL` configurations, so we can track who you are.  
    將您的修改 commit 以便我們可以追蹤您是誰。請注意要有正確的 `GIT_AUTHOR_NAME` 與 `GIT_AUTHOR_EMAIL` 的設定。
 
-5. Send a pull request to this project on github and we will get your registration.  
-   發送一個 pull request 到 github 上的這個專案，我們便可接受您的報隊。
+5. Send a [pull request](#pullrequest) to this project on github and we will get your registration.  
+   發送一個 [pull request](#pullrequest) 到 github 上的這個專案，我們便可接受您的報隊。
 
 The members in project proposals are only the intents of joining the project. The proponent and all members can of course discuss how to group together in Hackathon.  
 列在專案提案裡的成員，僅僅表達了想要參加專案的意願。專案提案者與所有成員，仍然可以於駭客爽活動時討論分組事宜。
@@ -110,4 +110,8 @@ PULL REQUESTS
 
 Here is a breif description on how to send pull requests.
 
+[at]: osdc-2012-hackathon/blob/master/attendees.md
+[pr]: osdc-2012-hackathon/tree/master/projects
+[ex]: osdc-2012-hackathon/blob/master/projects/example.md
+[md]: http://daringfireball.net/projects/markdown/syntax
 
