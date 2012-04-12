@@ -31,4 +31,20 @@ DETAILS
 *The proponent can add more details about the project here.*
 *專案提案者可以在這裡例出更多專案相關資訊。*
 
+**Advance Use of Git/Github**  
+**進階利用Git/Github**
+
+*Or, we may even use git/github more aggresively that using it as a channel to discuss with each others.*  
+*或者，我們甚至可以更積極地利用 git/github 來做為互相討論的管道。*
+
+*The proponent can fork this repository ([osdc-2012-hackathon][ha]) on github, and put its url here.*  
+*專案提案者可以於 github 上 fork 這個程式庫 ([osdc-2012-hackathon][ha])，然後將 url 列在這邊。*
+
+*Members can discuss with each others using proponent's clone, and push back to here by proponent at anytime.*  
+*成員們可以利用提案者複製出來的程式庫進行討論，然後提案者隨時可以 push 回這裡。*
+
+*So there could be an update-to-date description of the proposed project, right here for public.*  
+*這樣一來，提案隨時可以有最新的說明，就放在這裡供大眾瀏覽。*
+
+[ha]: osdc-2012-hackathon
 
