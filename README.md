@@ -47,8 +47,8 @@ To register, please follow the steps:
 3. Commit your changes with proper `GIT_AUTHOR_NAME` and `GIT_AUTHOR_EMAIL` configurations, so we can track who you are.  
    將您的修改 commit 以便我們可以追蹤您是誰。請注意要有正確的 `GIT_AUTHOR_NAME` 與 `GIT_AUTHOR_EMAIL` 的設定。
 
-4. Send a [pull request](#pullrequest) to this project on github and we will get your registration.  
-   發送一個 [pull request](#pullrequest) 到 github 上的這個專案，我們便可接受您的報名。
+4. Send a [pull request][pu] to this project on github and we will get your registration.  
+   發送一個 [pull request][pu] 到 github 上的這個專案，我們便可接受您的報名。
 
 PROPOSALS (提案)
 ----------------
@@ -74,8 +74,8 @@ Please follow the steps to propose your ideas:
 4. Commit your changes with proper `GIT_AUTHOR_NAME` and `GIT_AUTHOR_EMAIL` configurations, so we can track who you are.  
    將您的修改 commit 以便我們可以追蹤您是誰。請注意要有正確的 `GIT_AUTHOR_NAME` 與 `GIT_AUTHOR_EMAIL` 的設定。
 
-5. Send a [pull request](#pullrequest) to this project on github and we will get your proposal.  
-   發送一個 [pull request](#pullrequest) 到 github 上的這個專案，我們便可接受您的提案。
+5. Send a [pull request][pu] to this project on github and we will get your proposal.  
+   發送一個 [pull request][pu] 到 github 上的這個專案，我們便可接受您的提案。
 
 GROUPINGS (報隊)
 ----------------
@@ -101,8 +101,8 @@ Please follow the steps to join to projects:
 4. Commit your changes with proper `GIT_AUTHOR_NAME` and `GIT_AUTHOR_EMAIL` configurations, so we can track who you are.  
    將您的修改 commit 以便我們可以追蹤您是誰。請注意要有正確的 `GIT_AUTHOR_NAME` 與 `GIT_AUTHOR_EMAIL` 的設定。
 
-5. Send a [pull request](#pullrequest) to this project on github and we will get your registration.  
-   發送一個 [pull request](#pullrequest) 到 github 上的這個專案，我們便可接受您的報隊。
+5. Send a [pull request][pu] to this project on github and we will get your registration.  
+   發送一個 [pull request][pu] 到 github 上的這個專案，我們便可接受您的報隊。
 
 The members in project proposals are only the intents of joining the project. The proponent and all members can of course discuss how to group together in Hackathon.  
 列在專案提案裡的成員，僅僅表達了想要參加專案的意願。專案提案者與所有成員，仍然可以於駭客爽活動時討論分組事宜。
@@ -117,4 +117,5 @@ Here is a breif description on how to send pull requests.
 [pr]: osdc-2012-hackathon/tree/master/projects
 [ex]: osdc-2012-hackathon/blob/master/projects/example.md
 [md]: http://daringfireball.net/projects/markdown/syntax
+[pu]: #pullrequest
 
