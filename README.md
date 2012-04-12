@@ -17,6 +17,9 @@ OSDC.tw 2012 Hackathon (駭客爽)
 </tr>
 </table>
 
+This event is coordinated through Github. [Pull requests][pu] are welcomed anytime from anybody to enhance the way to run this hackathon.  
+這個活動係使用 github 進行各項協調工作。在任何時候，我們歡迎來自任何人的 [pull requests][pu]，以改善此駭客爽活動的進行方式。
+
 GOAL
 ----
 
