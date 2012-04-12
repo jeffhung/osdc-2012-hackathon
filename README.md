@@ -38,7 +38,7 @@ To register, please follow the steps:
 1. Clone this project on github to somewhere public. You may also fork it directly on github.  
    將 github 上的這個專案 clone 至公開的某處。您亦可以直接在 github 上 fork 此專案。
 
-2. Edit `attendees.md` and add your name into the list.  
+2. Edit [`attendees.md`](blob/master/attendees.md) and add your name into the list.  
    編輯 `attendees.md` 檔案並將您的名字列入其中。
 
 3. Commit your changes with proper `GIT_AUTHOR_NAME` and `GIT_AUTHOR_EMAIL` configurations, so we can track who you are.  
