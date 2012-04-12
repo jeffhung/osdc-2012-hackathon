@@ -18,10 +18,15 @@ The *real name* is a must-have. We need it in advance so you can get into the bu
 You will have to sign up when arriving Trend Micro at 1st floor.  
 *真實姓名*是必列的資訊。我們必須事先知道，以便讓您能夠進入本公司。在進入趨勢一樓大廳時，您將需要簽到。
 
+If you are trender, please state explicitly.  
+若您是 trender，請明確說明。
+
 Attendees
 ---------
 
 ### jeffhung : 洪健洲
+
+(I am a trender.)
 
 I am jeffhung. My real name is 洪健洲 (Hung, Chien-Chou). Living in Taipei,
 Taiwan, and working for Trend Micro currently.
