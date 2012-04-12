@@ -107,15 +107,10 @@ Please follow the steps to join to projects:
 The members in project proposals are only the intents of joining the project. The proponent and all members can of course discuss how to group together in Hackathon.  
 列在專案提案裡的成員，僅僅表達了想要參加專案的意願。專案提案者與所有成員，仍然可以於駭客爽活動時討論分組事宜。
 
-<a name="pullrequest"/>
-PULL REQUESTS
--------------
-
-Here is a breif description on how to send pull requests.
 
 [at]: osdc-2012-hackathon/blob/master/attendees.md
 [pr]: osdc-2012-hackathon/tree/master/projects
 [ex]: osdc-2012-hackathon/blob/master/projects/example.md
 [md]: http://daringfireball.net/projects/markdown/syntax
-[pu]: #pullrequest
+[pu]: http://help.github.com/send-pull-requests/
 
