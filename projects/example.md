@@ -49,5 +49,5 @@ DETAILS
 > So there could be an update-to-date description of the proposed project, right here for public.  
 > 這樣一來，提案隨時可以有最新的說明，就放在這裡供大眾瀏覽。
 
-[ha]: osdc-2012-hackathon
+[ha]: https://github.com/jeffhung/osdc-2012-hackathon
 
