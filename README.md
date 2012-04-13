@@ -74,6 +74,9 @@ Please follow the steps to send us your proposal:
 4. Commit and send this project a [pull request][pu] to propose.  
    Commit 後發送一個 [pull request][pu] 到 github 上的這個專案，我們便可接受您的提案。
 
+You may propose more than one ideas. Which projects to go depend on the groupings and discussion results in the Hackathon.  
+您可以提出不只一個主意，到底要進行哪些專案，係依據駭客爽活動當天分組的狀況與討論的結果而定。
+
 GROUPINGS (報隊)
 ----------------
 
