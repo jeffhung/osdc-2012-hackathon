@@ -26,7 +26,6 @@ GOAL
 Happy coding!  
 快樂寫程式！
 
-
 REGISTRATION (報名)
 -------------------
 
@@ -42,11 +41,14 @@ To register, please follow these steps:
 1. Fork this project using github.  
    在 github 上 fork 此專案。
 
-2. Add your name to [`attendees.md`][at].  
-   編輯 [`attendees.md`][at] 檔案並將您的名字列入其中。
+2. Add a text file to the [`attendees`][at] folder, name the file using the convention: `nickname.md`.  
+   新增一個純文字檔案到 [`attendees`][at] 資料夾，並使用這個檔名慣例：`nickname.md`。
 
-3. Commit and send this project a [pull request][pu] for registration.  
-   Commit 後發送一個 [pull request][pu] 到 github 上的這個專案，我們便可接受您的報名。
+3. Edit the file, using [markdown syntax][md], and follow the details in [`attendees/example.md`][ax].  
+   依照 [`attendees/example.md`][ax] 的說明，使用 [markdown 格式][md]編輯這個檔案。
+
+4. Commit and send this project a [pull request][pu] to propose.  
+   Commit 後發送一個 [pull request][pu] 到 github 上的這個專案，我們便可接受您的提案。
 
 PROPOSALS (提案)
 ----------------
@@ -66,8 +68,8 @@ Please follow the steps to send us your proposal:
 2. Add a text file to the [`projects`][pr] folder, name the file using the convention: `project-name.md`.  
    新增一個純文字檔案到 [`projects`][pr] 資料夾，並使用這個檔名慣例：`project-name.md`。
 
-3. Edit the file, using [markdown syntax][md], and follow the details in [`projects/example.md`][ex].  
-   依照 [`projects/example.md`][ex] 的說明，使用 [markdown 格式][md]編輯這個檔案。
+3. Edit the file, using [markdown syntax][md], and follow the details in [`projects/example.md`][px].  
+   依照 [`projects/example.md`][px] 的說明，使用 [markdown 格式][md]編輯這個檔案。
 
 4. Commit and send this project a [pull request][pu] to propose.  
    Commit 後發送一個 [pull request][pu] 到 github 上的這個專案，我們便可接受您的提案。
@@ -96,9 +98,10 @@ Please follow these steps to join to projects of your choice:
 Attendees express their interest and intent to join a project by adding their names to a proposal. Proponents and project members are free to further discuss and possibly re-group in the Hackathon.  
 列在專案提案裡的成員，僅僅表達了想要參加專案的意願。專案提案者與所有成員，仍然可以於駭客爽活動時討論分組事宜。
 
-
-[at]: osdc-2012-hackathon/blob/master/attendees.md
+[at]: osdc-2012-hackathon/tree/master/attendees
+[ax]: osdc-2012-hackathon/blob/master/attendees/example.md
 [pr]: osdc-2012-hackathon/tree/master/projects
-[ex]: osdc-2012-hackathon/blob/master/projects/example.md
+[px]: osdc-2012-hackathon/blob/master/projects/example.md
 [md]: http://daringfireball.net/projects/markdown/syntax
 [pu]: http://help.github.com/send-pull-requests/
+
