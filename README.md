@@ -47,8 +47,8 @@ To register, please follow these steps:
 3. Edit the file, using [markdown syntax][md], and follow the details in [`attendees/example.md`][ax].  
    依照 [`attendees/example.md`][ax] 的說明，使用 [markdown 格式][md]編輯這個檔案。
 
-4. Commit and send this project a [pull request][pu] to propose.  
-   Commit 後發送一個 [pull request][pu] 到 github 上的這個專案，我們便可接受您的提案。
+4. Commit and send this project a [pull request][pu] to register.  
+   Commit 後發送一個 [pull request][pu] 到 github 上的這個專案，我們便可接受您的報名。
 
 PROPOSALS (提案)
 ----------------
