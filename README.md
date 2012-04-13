@@ -33,7 +33,7 @@ REGISTRATION (報名)
 Maximum 60 attendees.  
 這個活動容許最多 60 人參加。
 
-**The registration ends in 4/18. Please register early.**  
+**The registration ends on 4/18. Please register early.**  
 **報名於 4/18 截止，請及早註冊。**
 
 To register, please follow these steps:  
