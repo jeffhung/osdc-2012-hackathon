@@ -17,14 +17,13 @@ OSDC.tw 2012 Hackathon (駭客爽)
 </tr>
 </table>
 
-This event is coordinated through Github. [Pull requests][pu] are welcomed to help making it a better hackathon event.
+This event is coordinated through Github. [Pull requests][pu] are welcomed to help making it a better hackathon event.  
 這個活動係使用 github 進行各項協調工作。我們歡迎各方朋友的 [pull requests][pu]，以改善此駭客爽活動的進行方式。
 
 GOAL
 ----
 
-Happy coding!
-
+Happy coding!  
 快樂寫程式！
 
 
