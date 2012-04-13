@@ -35,3 +35,11 @@ I love programming, coding in C/C++ mostly. But also know PHP, shell scripts,
 Perl, Java, Javascript, VB, ...etc. Usually develop for FreeBSD & Windows,
 sometimes Web.
 
+### fenriswolf
+
+(I am a trender.)
+
+I am fenriswolf. Living in Taipei, Taiwan, and working for Trend Micro currently.
+
+Coding in java mostly.
+
