@@ -35,6 +35,16 @@ I love programming, coding in C/C++ mostly. But also know PHP, shell scripts,
 Perl, Java, Javascript, VB, ...etc. Usually develop for FreeBSD & Windows,
 sometimes Web.
 
+### clsung : 宋政隆
+
+I am clsung. My real name is 宋政隆 (Sung, Cheng-Lung). Living in Taipei,
+Taiwan, and working for hTC currently.
+
+I love programming, coding in python/C mostly. But also know Perl, shell scripts,
+Java, Javascript, C++, ...etc. Usually develop for Android, Linux, Windows,
+sometimes Web.
+
 ### au : 唐鳳
 
 不太知道該寫什麼。我喜歡寫程式。:-)
+
