@@ -60,3 +60,6 @@ I am fenriswolf. Living in Taipei, Taiwan, and working for Trend Micro currently
 
 Coding in java mostly.
 
+### fr3@K : 何長興
+
+Would like to work on C++ stuffs in the hackthon.
