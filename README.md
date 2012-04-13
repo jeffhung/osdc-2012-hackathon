@@ -92,7 +92,7 @@ Please follow these steps to join to projects of your choice:
 2. In the [`projects`][pr] folder, add your name or nickname to the `MEMBERS` section in the project proposal you would like to join.  
    在 [`projects`][pr] 資料夾裡，將您的姓名或暱稱，加入到您要參加的提案檔案的 `MEMBERS` 段落。
 
-3. Commit your changes and send this project a [pull request][pu]. 
+3. Commit your changes and send this project a [pull request][pu].  
    將您的修改 commit。發送一個 [pull request][pu] 到 github 上的這個專案，我們便可接受您的報隊。
 
 Attendees express their interest and intent to join a project by adding their names to a proposal. Proponents and project members are free to further discuss and possibly re-group in the Hackathon.  
