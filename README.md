@@ -96,7 +96,7 @@ Please follow the steps to join to projects:
    在 [`projects`][pr] 資料夾裡，編輯您感興趣且想要參加的提案檔案。
 
 3. Add your name, or nickname, into the `MEMBERS` section in the project proposal.  
-   將您的姓名或膩稱，加入到提案檔案的 `MEMBERS` 段落。
+   將您的姓名或暱稱，加入到提案檔案的 `MEMBERS` 段落。
 
 4. Commit your changes with proper `GIT_AUTHOR_NAME` and `GIT_AUTHOR_EMAIL` configurations, so we can track who you are.  
    將您的修改 commit 以便我們可以追蹤您是誰。請注意要有正確的 `GIT_AUTHOR_NAME` 與 `GIT_AUTHOR_EMAIL` 的設定。

@@ -35,3 +35,6 @@ I love programming, coding in C/C++ mostly. But also know PHP, shell scripts,
 Perl, Java, Javascript, VB, ...etc. Usually develop for FreeBSD & Windows,
 sometimes Web.
 
+### au : 唐鳳
+
+不太知道該寫什麼。我喜歡寫程式。:-)
