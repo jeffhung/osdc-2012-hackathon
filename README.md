@@ -106,13 +106,13 @@ FAQ (常見問題)
 
 1. **I will not be in Taipei then. May I join remotely?**  
    **我那時不在台北，能否遠端參加？**
-
+   
    There will be wifi available during the event, so it is possible to join
    remotely. Team members can communicate with each others with tools such as IRC,
    git, etherpad, and Google hangout.  
    本活動提供 wifi，故遠端參與是可行的。專案組員們可以利用如 IRC、git、etherpad
    或 Google hangout 等工具溝通。
-
+   
    Please also send [pull request][pu] and state explicitly that you have to
    attend the event remotely in your self description.  
    請一樣發送 [pull request][pu] 且於自我介紹中明確表明您將遠端參與。
