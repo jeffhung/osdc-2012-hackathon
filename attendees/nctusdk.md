@@ -1,4 +1,4 @@
-# nctusdk
+# 宋牧奇/nctusdk
 
 I am 小迪克, and I work for Zillians
 
