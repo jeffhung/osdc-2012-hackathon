@@ -104,6 +104,12 @@ Attendees express their interest and intent to join a project by adding their na
 FAQ (常見問題)
 --------------
 
+**Will there be computers available?**  
+**是否有提供電腦？**
+
+No. There will be no computer provided for you. You have to bring your laptop.  
+不，本活動不提供電腦，請自備筆記型電腦。
+
 **I will not be in Taipei then. May I join remotely?**  
 **我那時不在台北，能否遠端參加？**
 
