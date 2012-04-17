@@ -101,6 +101,22 @@ Please follow these steps to join to projects of your choice:
 Attendees express their interest and intent to join a project by adding their names to a proposal. Proponents and project members are free to further discuss and possibly re-group in the Hackathon.  
 列在專案提案裡的成員，僅僅表達了想要參加專案的意願。專案提案者與所有成員，仍然可以於駭客爽活動時討論分組事宜。
 
+FAQ (常見問題)
+--------------
+
+**I will not be in Taipei then. May I join remotely?**  
+**我那時不在台北，能否遠端參加？**
+
+There will be wifi available during the event, so it is possible to join
+remotely. Team members can communicate with each others with tools such as IRC,
+git, etherpad, and Google hangout.  
+本活動提供 wifi，故遠端參與是可行的。專案組員們可以利用如 IRC、git、etherpad
+或 Google hangout 等工具溝通。
+
+Please also send [pull request][pu] and state explicitly that you have to
+attend the event remotely in your self description.  
+請一樣發送 [pull request][pu] 且於自我介紹中明確表明您將遠端參與。
+
 [at]: osdc-2012-hackathon/tree/master/attendees
 [ax]: osdc-2012-hackathon/blob/master/attendees/example.md
 [pr]: osdc-2012-hackathon/tree/master/projects
