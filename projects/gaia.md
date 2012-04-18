@@ -25,6 +25,7 @@ MEMBERS
 
 * Thinker
 * IzzyLimbo
+* Irvin
 
 DETAILS
 -------
