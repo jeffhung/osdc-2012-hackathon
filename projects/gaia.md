@@ -24,6 +24,7 @@ MEMBERS
 > 任何人都可以加自己加入專案成員的清單，但實際分組將依活動當天討論結果而定。
 
 * Thinker
+* IzzyLimbo
 
 DETAILS
 -------
