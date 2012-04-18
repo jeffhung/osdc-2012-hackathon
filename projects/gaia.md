@@ -26,6 +26,7 @@ MEMBERS
 * Thinker
 * IzzyLimbo
 * Posh
+* Irvin
 
 DETAILS
 -------
