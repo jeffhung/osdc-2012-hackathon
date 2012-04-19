@@ -29,6 +29,9 @@ Happy coding!
 REGISTRATION (報名)
 -------------------
 
+**The registration has been ended. Note that you can still update/propose your projects.**
+**報名已經截止。請注意，您仍然可以提出或修正專案。**
+
 Maximum 60 attendees.  
 這個活動容許最多 60 人參加。
 
