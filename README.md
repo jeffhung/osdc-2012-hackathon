@@ -29,7 +29,7 @@ Happy coding!
 REGISTRATION (報名)
 -------------------
 
-**The registration has been ended. Note that you can still update/propose your projects.**
+**The registration has been ended. Note that you can still update/propose your projects.**  
 **報名已經截止。請注意，您仍然可以提出或修正專案。**
 
 Maximum 60 attendees.  
@@ -103,6 +103,34 @@ Please follow these steps to join to projects of your choice:
 
 Attendees express their interest and intent to join a project by adding their names to a proposal. Proponents and project members are free to further discuss and possibly re-group in the Hackathon.  
 列在專案提案裡的成員，僅僅表達了想要參加專案的意願。專案提案者與所有成員，仍然可以於駭客爽活動時討論分組事宜。
+
+FOODS (食物)
+------------
+
+This event will provide free meals so you do not have to worry about energy supply when hacking.  
+本活動提供免費的餐點，以便讓您在 hacking 時，毋須擔心能量供給。
+
+<table>
+<tr>
+<th>Time (時間)</th>
+<td>Meal (餐點)</th>
+</tr>
+<tr>
+<td>9:00</td>
+<td>American Breakfast (美式早餐)</td>
+</tr>
+<tr>
+<td>11:30</td>
+<td>Italy, Chinese Meals (義式、中式餐點)</td>
+</tr>
+<tr>
+<td>4:00</td>
+<td>Chinese Refreshment (中式點心)</td>
+</tr>
+</table>
+
+If you have special requests on meals, e.g., vegetarian, please seek staff's help.  
+若您對餐點有特殊需求，如吃素，請洽工作人員。
 
 FAQ (常見問題)
 --------------
