@@ -27,7 +27,7 @@ MEMBERS
 * IzzyLimbo
 * Posh
 * Irvin
-
+* Terrence
 DETAILS
 -------
 
