@@ -125,7 +125,7 @@ This event will provide free meals so you do not have to worry about energy supp
 </tr>
 <tr>
 <td>4:00</td>
-<td>Chinese Refreshment (中式點心)</td>
+<td>Korea Refreshment (韓式點心)</td>
 </tr>
 </table>
 
