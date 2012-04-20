@@ -113,7 +113,7 @@ This event will provide free meals so you do not have to worry about energy supp
 <table>
 <tr>
 <th>Time (時間)</th>
-<td>Meal (餐點)</th>
+<th>Meal (餐點)</th>
 </tr>
 <tr>
 <td>9:00</td>
