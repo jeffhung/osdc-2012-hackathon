@@ -19,14 +19,14 @@ In addition to adding your name in the MEMBERS section, please also fork my repo
 PROPONENT
 ---------
 
-Thinker
+fr3@K
 
 http://www.codemud.net/~thinker/GinGin_CGI.py
 
 MEMBERS
 -------
 
-fr3@K
+legnaleurc
 
 DETAILS
 -------
