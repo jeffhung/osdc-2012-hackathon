@@ -13,6 +13,8 @@ MEMBERS
 
 - clkao
 - clsung
+- lwhsu
+- hcchien
 
 DETAILS
 -------
