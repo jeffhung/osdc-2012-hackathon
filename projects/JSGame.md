@@ -9,6 +9,8 @@ A Classic game porting to html5 canvas api.
 
 and we will produce a workable game engine.
 
+git page https://github.com/timtan/JSGame
+
 MEMBERS
 -------
 
