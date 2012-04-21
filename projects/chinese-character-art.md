@@ -27,6 +27,7 @@ MEMBERS
 
 * hychen
 * kanru
+* lazywei
 
 DETAILS
 -------
