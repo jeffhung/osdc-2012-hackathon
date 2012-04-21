@@ -21,8 +21,6 @@ PROPONENT
 
 fr3@K
 
-http://www.codemud.net/~thinker/GinGin_CGI.py
-
 MEMBERS
 -------
 
