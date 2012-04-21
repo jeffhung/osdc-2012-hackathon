@@ -17,6 +17,7 @@ MEMBERS
 * jeffhung <http://www.jeffhung.net/blob/>
 * lunastorm
 * lazywei
+* au
 
 DETAILS
 -------
