@@ -14,6 +14,8 @@ Ref: https://github.com/JuliaLang/julia/blob/master/test/perf/perf.cpp
 
 This inititive is to improve Julia's C++ benchmark code.
 
+In addition to adding your name in the MEMBERS section, please also fork my repo: https://github.com/kennethho/julia
+
 PROPONENT
 ---------
 
